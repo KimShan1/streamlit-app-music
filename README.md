@@ -10,7 +10,7 @@ To achieve this, the project leverages live music recordings and a three-pronged
 </div>
 
 
-2. Feature Extraction: Essentia, an open-source library, extracts over 370 unique characteristics from each audio sample, capturing its musical essence.
+2. Feature Extraction: Essentia (<a href="https://github.com/MTG/essentia" target="_blank">Essentia</a>) , an open-source library, extracts over 370 unique characteristics from each audio sample, capturing its musical essence.
 3. Model Training and Classification: XGBoost model is trained on this rich dataset, learning to associate these features with specific instruments. The resulting model boasts an accuracy of 75% in identifying 11 different instruments within a music piece.
 
 
