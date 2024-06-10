@@ -1,3 +1,4 @@
+# Music Instrument Classifier
 This project tackles the challenge of identifying musical instruments in a song using machine learning. The goal is to develop a model that can analyze audio recordings and classify the instruments present, like piano, guitar, or others.
 To achieve this, the project leverages live music recordings and a three-pronged approach:
 
